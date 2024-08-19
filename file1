@@ -1,5 +1,9 @@
 hello
 hello
 file2
+<<<<<<< HEAD
 bug-fixed1
 bug-fixed
+=======
+bug-fixed12
+>>>>>>> new
